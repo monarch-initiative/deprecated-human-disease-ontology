@@ -1,3 +1,7 @@
+DEPRECATED
+
+originally set up to help DO move toward full OWL axiomatization. This fork is now deprecated, but we keep it around as there may be some useful files in here
+
 Welcome to the new Human Disease Ontology (DOID) Repository!
 
 This repository will soon be active! It is intended for DO developers
